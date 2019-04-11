@@ -1,0 +1,38 @@
+availability of rooms
+availability of beds
+room containing how many beds 
+price 
+check in 
+check out
+ac/non ac room
+nearest loacation 
+(station,market,beach,oen space)
+rent per day
+cab use 
+cabs for rent to rome around city
+dish menu
+room service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
